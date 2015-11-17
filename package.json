@@ -1,9 +1,9 @@
 {
-  "name": "gulp-gulp-smartsprites",
+  "name": "gulp-smartsprites",
   "version": "0.0.0",
   "description": "",
   "license": "MIT",
-  "repository": "zba/gulp-gulp-smartsprites",
+  "repository": "zba/gulp_smartsprites",
   "author": {
     "name": "Aleksei Zbiniakov",
     "email": "alexey@coccoc.vn",
